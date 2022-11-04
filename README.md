@@ -1,7 +1,7 @@
 # Feeding-Frenzy-JAVA
 
 This program generates a simplified version of the popular "Feeding Frenzy" game,
-a UML diagram is included for clear representation of all classes involved.
+a UML diagram is included for clear representation of all interfaces, classes, and function objects involved.
 
 The main code to run is under feedingfrenzy.java, two external JARS are also included for configuration of the code. 
 
